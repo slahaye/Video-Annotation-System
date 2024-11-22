@@ -4,6 +4,8 @@
 
 Le système permet d'annoter des vidéos avec des marqueurs temporels, des pins positionnels et des réponses aux annotations. Il est construit avec une architecture modulaire utilisant JavaScript vanilla et Tailwind CSS.
 
+![alt tag]([url de ton image](https://github.com/user-attachments/assets/6d3a0f2c-9f30-449e-9cc2-edfbf1fd0620))
+
 ## Composants Principaux
 
 ### 1. VideoPlayer (`src/components/VideoPlayer.js`)
