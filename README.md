@@ -1,4 +1,4 @@
-# Video Annotation System - Documentation Technique
+# Video Annotation System
 
 ## Architecture Globale
 
