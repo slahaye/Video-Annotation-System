@@ -124,7 +124,7 @@ export class AnnotationList {
     ` : '';
 
     const replies = annotation.replies.map(reply => `
-      <div class="reply-container pl-6 mt-2 border-l-2 border-gray-100">
+      <div class="reply-container pl-6 mt-2 border-l-2" style="border-color: rgb(221, 221, 222)">
         <div class="reply-content flex items-start justify-between relative">
           <div class="flex-1">
             <div class="mb-1">
